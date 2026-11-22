@@ -1,0 +1,8 @@
+streamlit
+ortools
+pandas
+plotly
+sqlalchemy
+psycopg2-binary
+anthropic
+python-dotenv
